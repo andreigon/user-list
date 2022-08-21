@@ -1,4 +1,4 @@
-# online_shop
+# user-list
 
 ## Project setup
 ```
